@@ -1,0 +1,121 @@
+/* Container styling */
+.app-container {
+  text-align: center;
+  background: radial-gradient(circle, #2c3e50, #000000);
+  color: #f1c40f; /* Gold color */
+  min-height: 100vh;
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+/* The Box Styling */
+.card {
+  width: 140px;
+  height: 140px;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transform-style: preserve-3d;
+}
+
+.card.flipped .card-inner {
+  transform: rotateX(-180deg); /* Box dhakkan ki tarah upar khulega */
+}
+
+/* Front Side (Closed Box) */
+.card-front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #5d4037; /* Brown color like wood */
+  border: 4px solid #8d6e63;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5), inset 0 0 15px #3e2723;
+}
+
+/* Box par ek "Lock" dikhane ke liye */
+.card-front::after {
+  content: "🔒";
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: 10px;
+}
+
+/* Back Side (Open Box with Reward) */
+.card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  transform: rotateX(180deg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background: #ecf0f1;
+  color: #2c3e50;
+  box-shadow: 0 5px 15px rgba(255, 215, 0, 0.4);
+}
+
+/* Back color based on type */
+.card-back.gold {
+  background: linear-gradient(135deg, #fff9c4, #fbc02d);
+  border: 3px solid #f1c40f;
+}
+
+.card-back.monster {
+  background: linear-gradient(135deg, #ffcdd2, #d32f2f);
+  border: 3px solid #b71c1c;
+  color: white;
+}
+
+.icon {
+  font-size: 3.5rem;
+  margin-bottom: 5px;
+  filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.2));
+}
+
+.result-text {
+  font-weight: bold;
+  font-size: 1.2rem;
+  z-index: 99;
+}
+
+/* Reset Button */
+.reset-btn {
+  margin-top: 50px;
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  background: #f1c40f;
+  color: #000;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.reset-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px #f1c40f;
+}

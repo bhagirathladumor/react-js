@@ -1,0 +1,148 @@
+@import "tailwindcss";
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+@theme {
+  --color-theme-green: #0aad0a;
+  --color-hover-green: #088a08;
+  --color-text-dark: #21313c;
+  --color-p-gray: #5c6c75;
+  --color-dark-sec: rgb(0 30 43);
+  --color-bg-footer: #F0F3F2;
+}
+
+:root{
+    --theme-color:#0aad0a;
+    --hover-color:#088a08;
+    --text-dark:#21313c;
+    --p-color:#5c6c75;
+    --tex-dark-sec:rgb(0, 30, 43);
+    --bg-footr:#F0F3F2;
+}
+
+/* Custom CSS Styles */
+.custom-slider {
+    position: relative;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+
+.slider-bg-blob {
+    width: 400px;
+    height: 400px;
+    background: rgba(10, 173, 10, 0.1);
+    border-radius: 50%;
+    filter: blur(50px);
+    z-index: 0;
+}
+
+.animate-fade-in {
+    animation: fadeIn 1s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.hover-up {
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.hover-up:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.img-hover {
+    transition: transform 0.5s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.05) rotate(1deg);
+}
+
+.custom-card {
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 1.5rem 4rem rgba(0,0,0,.15) !important;
+}
+
+.custom-card:hover .card-overlay {
+    opacity: 1 !important;
+    bottom: 20px !important;
+}
+
+.transition-3 {
+    transition: all 0.3s ease;
+}
+
+.tracking-wider {
+    letter-spacing: 0.1em;
+}
+
+.hover-underline:hover {
+    text-decoration: underline !important;
+}
+
+.hover-shadow:hover {
+    box-shadow: 0 5px 15px rgba(10, 173, 10, 0.3);
+}
+
+.bg-theme-green {
+    background-color: var(--theme-color) !important;
+    color: white !important;
+}
+
+.text-theme-green {
+    color: var(--theme-color) !important;
+}
+
+.hover-text-theme-green:hover {
+    color: var(--theme-color) !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-dark-sec {
+    color: var(--tex-dark-sec) !important;
+}
+
+.text-p-gray {
+    color: var(--p-color) !important;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: var(--text-dark);
+    font-size: 14px;
+}
+h2{
+    color: var(--tex-dark-sec);
+}
+h3 , h4 , h5 , h6{
+    color: var(--text-dark);
+}
+p{
+    color: var(--p-color);
+    font-size: 14px;
+}
+.w-5{
+    width: 20%;
+}
