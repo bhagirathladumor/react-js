@@ -1,0 +1,465 @@
+{
+  "product": [
+    {
+      "id": "rqAlCghbHGk",
+      "p_name": "iPhone 17",
+      "p_price": 70000,
+      "p_stock": 10,
+      "p_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnJNqQNr07AU50xgY2RCl6ra9B5WhxADSZA&s",
+      "p_category": "Electronic",
+      "p_description": "iPhone 17. Center Stage front camera. A19 chip. 6.3″ ProMotion display."
+    },
+    {
+      "id": "kmvjsvCbzJA",
+      "p_name": "T-Shirt",
+      "p_price": 500,
+      "p_stock": 20,
+      "p_image": "https://veirdo.in/cdn/shop/files/Artboard_20_16.jpg?v=1758343737",
+      "p_category": "Fashion",
+      "p_description": "Self Design Men Zip Neck Dark Green T-Shirt. 70% off. Colorblock style."
+    },
+    {
+      "id": "CVX_pe20zMU",
+      "p_name": "Blue Striped Cushion Cover",
+      "p_price": 200,
+      "p_stock": 50,
+      "p_image": "https://www.purehomeandliving.com/cdn/shop/files/8907895163716_1_e70c7ee6-2092-47b2-9027-930d9885eadd.jpg?v=1772106329&width=400",
+      "p_category": "Home & Living",
+      "p_description": "Elegant makeover with evergreen stripes and classic florals."
+    },
+    {
+      "id": "CrTUWkB-q0k",
+      "p_name": "LG Smart Android Digital TV",
+      "p_price": 44000,
+      "p_stock": 5,
+      "p_image": "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/g4-2024-gallery/65/new/OLED65G46LA-DZ-3.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+      "p_category": "Electronic",
+      "p_description": "Alpha 11 AI Processor 4K. Brighter visuals with Brightness Booster Max."
+    },
+    {
+      "id": "E101_Sp",
+      "p_name": "Professional Cricket Bat",
+      "p_price": 4500,
+      "p_stock": 15,
+      "p_image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Grade 1 English Willow. Perfect balance for power hitters."
+    },
+    {
+      "id": "E102_El",
+      "p_name": "Noise Cancelling Headphones",
+      "p_price": 12000,
+      "p_stock": 12,
+      "p_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Active Noise Cancellation, 40-hour battery life, and spatial audio."
+    },
+    {
+      "id": "E103_Fa",
+      "p_name": "Leather Chelsea Boots",
+      "p_price": 3500,
+      "p_stock": 8,
+      "p_image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Premium tan leather with durable elastic side panels."
+    },
+    {
+      "id": "E104_HL",
+      "p_name": "Modern Ceramic Vase",
+      "p_price": 850,
+      "p_stock": 25,
+      "p_image": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Handcrafted minimalist white ceramic vase for contemporary decor."
+    },
+    {
+      "id": "E105_Sp",
+      "p_name": "Yoga Mat Non-Slip",
+      "p_price": 1200,
+      "p_stock": 30,
+      "p_image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "6mm eco-friendly TPE material with alignment lines."
+    },
+    {
+      "id": "E106_El",
+      "p_name": "Mechanical Gaming Keyboard",
+      "p_price": 5500,
+      "p_stock": 18,
+      "p_image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "RGB backlit, tactile blue switches, anti-ghosting keys."
+    },
+    {
+      "id": "E107_Fa",
+      "p_name": "Floral Summer Dress",
+      "p_price": 1800,
+      "p_stock": 14,
+      "p_image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Lightweight breathable cotton with vintage floral print."
+    },
+    {
+      "id": "E108_HL",
+      "p_name": "Bamboo Bath Towel Set",
+      "p_price": 1100,
+      "p_stock": 40,
+      "p_image": "https://images.unsplash.com/photo-1530132205537-83344e13554e?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Set of 4 ultra-absorbent and antibacterial bamboo fiber towels."
+    },
+    {
+      "id": "E109_Sp",
+      "p_name": "Adjustable Dumbbell Set",
+      "p_price": 8000,
+      "p_stock": 6,
+      "p_image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "20kg total weight. Fast adjustment dial system."
+    },
+    {
+      "id": "E110_El",
+      "p_name": "Mirrorless 4K Camera",
+      "p_price": 85000,
+      "p_stock": 4,
+      "p_image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "24.2 MP, 4K video recording, and high-speed autofocus."
+    },
+    {
+      "id": "E111_Fa",
+      "p_name": "Aviator Sunglasses",
+      "p_price": 2500,
+      "p_stock": 22,
+      "p_image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Polarized lenses with classic gold metal frames."
+    },
+    {
+      "id": "E112_HL",
+      "p_name": "Memory Foam Pillow",
+      "p_price": 1400,
+      "p_stock": 35,
+      "p_image": "https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Ergonomic design for neck support and cool-gel infusion."
+    },
+    {
+      "id": "E113_Sp",
+      "p_name": "Football Boots (Cleats)",
+      "p_price": 3200,
+      "p_stock": 20,
+      "p_image": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Lightweight synthetic upper for maximum speed and grip."
+    },
+    {
+      "id": "E114_El",
+      "p_name": "Smart Fitness Watch",
+      "p_price": 5000,
+      "p_stock": 25,
+      "p_image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Heart rate monitor, GPS, and OLED always-on display."
+    },
+    {
+      "id": "E115_Fa",
+      "p_name": "Denim Jacket",
+      "p_price": 2200,
+      "p_stock": 10,
+      "p_image": "https://images.unsplash.com/photo-1527010159945-c42509220548?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Classic blue trucker jacket with button-down front."
+    },
+    {
+      "id": "E116_HL",
+      "p_name": "Scented Soy Candle",
+      "p_price": 450,
+      "p_stock": 60,
+      "p_image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Lavender and Eucalyptus essential oils for relaxation."
+    },
+    {
+      "id": "E117_Sp",
+      "p_name": "Badminton Racket Set",
+      "p_price": 1800,
+      "p_stock": 12,
+      "p_image": "https://images.unsplash.com/photo-1626225928561-a77477542034?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Carbon fiber frame with 2 rackets and 3 shuttlecocks."
+    },
+    {
+      "id": "E118_El",
+      "p_name": "Wireless Charging Pad",
+      "p_price": 1500,
+      "p_stock": 45,
+      "p_image": "https://images.unsplash.com/photo-1586816829380-008323a6358c?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "15W fast charging, compatible with all Qi-enabled devices."
+    },
+    {
+      "id": "E119_Fa",
+      "p_name": "Running Sneakers",
+      "p_price": 4500,
+      "p_stock": 16,
+      "p_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Breathable mesh with foam cushioning for long distance."
+    },
+    {
+      "id": "E120_HL",
+      "p_name": "Cast Iron Skillet",
+      "p_price": 2800,
+      "p_stock": 10,
+      "p_image": "https://images.unsplash.com/photo-1594140719747-414239bc9625?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Pre-seasoned 12-inch heavy duty pan for searing."
+    },
+    {
+      "id": "E121_Sp",
+      "p_name": "Swimming Goggles",
+      "p_price": 600,
+      "p_stock": 50,
+      "p_image": "https://images.unsplash.com/photo-1551927336-09d50efd69cd?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Anti-fog, UV protection, and leak-proof silicone seal."
+    },
+    {
+      "id": "E122_El",
+      "p_name": "Portable Bluetooth Speaker",
+      "p_price": 3000,
+      "p_stock": 20,
+      "p_image": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Waterproof IPX7 rating with deep bass and 12h playtime."
+    },
+    {
+      "id": "E123_Fa",
+      "p_name": "Cotton Chinos",
+      "p_price": 1600,
+      "p_stock": 25,
+      "p_image": "https://images.unsplash.com/photo-1473966968600-fa804b86d30b?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Slim-fit casual trousers in khaki beige."
+    },
+    {
+      "id": "E124_HL",
+      "p_name": "Electric Coffee Grinder",
+      "p_price": 2200,
+      "p_stock": 15,
+      "p_image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Stainless steel blades for coarse to fine coffee grounds."
+    },
+    {
+      "id": "E125_Sp",
+      "p_name": "Tennis Racket",
+      "p_price": 6500,
+      "p_stock": 8,
+      "p_image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Pro-style graphite racket for high control and spin."
+    },
+    {
+      "id": "E126_El",
+      "p_name": "External SSD 1TB",
+      "p_price": 9500,
+      "p_stock": 30,
+      "p_image": "https://images.unsplash.com/photo-1597740985671-2a8a3b80f017?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Ultra-fast read/write speeds, USB-C compatible."
+    },
+    {
+      "id": "E127_Fa",
+      "p_name": "Wool Knit Sweater",
+      "p_price": 2500,
+      "p_stock": 12,
+      "p_image": "https://images.unsplash.com/photo-1614676471928-2ed0ad1061a4?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Warm merino wool blend in navy blue."
+    },
+    {
+      "id": "E128_HL",
+      "p_name": "Blackout Curtains",
+      "p_price": 1800,
+      "p_stock": 20,
+      "p_image": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Thermal insulated curtains that block 99% of sunlight."
+    },
+    {
+      "id": "E129_Sp",
+      "p_name": "Resistance Band Set",
+      "p_price": 900,
+      "p_stock": 40,
+      "p_image": "https://images.unsplash.com/photo-1598289431512-b97b0917a63e?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "5 levels of resistance for home strength training."
+    },
+    {
+      "id": "E130_El",
+      "p_name": "Wi-Fi Range Extender",
+      "p_price": 1800,
+      "p_stock": 25,
+      "p_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Boosts Wi-Fi signal to dead zones throughout the home."
+    },
+    {
+      "id": "E131_Fa",
+      "p_name": "Silk Necktie",
+      "p_price": 750,
+      "p_stock": 50,
+      "p_image": "https://images.unsplash.com/photo-1589756823851-ede1be67418c?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Handmade 100% silk tie in charcoal grey."
+    },
+    {
+      "id": "E132_HL",
+      "p_name": "Indoor Palm Plant",
+      "p_price": 1200,
+      "p_stock": 10,
+      "p_image": "https://images.unsplash.com/photo-1501004318641-729e8454bd06?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Live Areca Palm in a decorative pot for air purification."
+    },
+    {
+      "id": "E133_Sp",
+      "p_name": "Punching Bag (Unfilled)",
+      "p_price": 2000,
+      "p_stock": 15,
+      "p_image": "https://images.unsplash.com/photo-1517438476312-10d79c67750d?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Heavy-duty synthetic leather for boxing training."
+    },
+    {
+      "id": "E134_El",
+      "p_name": "Graphics Tablet",
+      "p_price": 7000,
+      "p_stock": 12,
+      "p_image": "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "8192 levels of pressure sensitivity for digital artists."
+    },
+    {
+      "id": "E135_Fa",
+      "p_name": "Crossbody Leather Bag",
+      "p_price": 2800,
+      "p_stock": 18,
+      "p_image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Compact genuine leather bag with adjustable strap."
+    },
+    {
+      "id": "E136_HL",
+      "p_name": "Wall Clock Modern",
+      "p_price": 650,
+      "p_stock": 30,
+      "p_image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Silent non-ticking mechanism with wooden finish."
+    },
+    {
+      "id": "E137_Sp",
+      "p_name": "Skateboard Maple",
+      "p_price": 2500,
+      "p_stock": 20,
+      "p_image": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "7-ply Canadian maple deck with high-grip wheels."
+    },
+    {
+      "id": "E138_El",
+      "p_name": "E-Reader Paper-White",
+      "p_price": 11000,
+      "p_stock": 15,
+      "p_image": "https://images.unsplash.com/photo-1592434134753-a70baf7979d7?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "Glare-free display, weeks of battery, and waterproof."
+    },
+    {
+      "id": "E139_Fa",
+      "p_name": "Beanie Hat",
+      "p_price": 400,
+      "p_stock": 45,
+      "p_image": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Soft ribbed knit beanie for winter comfort."
+    },
+    {
+      "id": "E140_HL",
+      "p_name": "Electric Kettle",
+      "p_price": 1500,
+      "p_stock": 22,
+      "p_image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "1.7L capacity with auto-shutoff and boil-dry protection."
+    },
+    {
+      "id": "E141_Sp",
+      "p_name": "Mountain Bike Helmet",
+      "p_price": 1800,
+      "p_stock": 10,
+      "p_image": "https://images.unsplash.com/photo-1557053503-0c252e5c8093?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Impact-resistant EPS liner with ventilated design."
+    },
+    {
+      "id": "E142_El",
+      "p_name": "Smart Light Bulb",
+      "p_price": 800,
+      "p_stock": 60,
+      "p_image": "https://images.unsplash.com/photo-1550524514-9636edba30c7?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "16 million colors, voice control, and scheduling."
+    },
+    {
+      "id": "E143_Fa",
+      "p_name": "Polo Shirt",
+      "p_price": 950,
+      "p_stock": 35,
+      "p_image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=800",
+      "p_category": "Fashion",
+      "p_description": "Breathable pique cotton with a classic two-button placket."
+    },
+    {
+      "id": "E144_HL",
+      "p_name": "Fleece Throw Blanket",
+      "p_price": 1200,
+      "p_stock": 25,
+      "p_image": "https://images.unsplash.com/photo-1512418430913-588309736734?q=80&w=800",
+      "p_category": "Home & Living",
+      "p_description": "Ultra-soft microfiber fleece for cozy lounging."
+    },
+    {
+      "id": "E145_Sp",
+      "p_name": "Basketball Size 7",
+      "p_price": 1400,
+      "p_stock": 20,
+      "p_image": "https://images.unsplash.com/photo-1519861531473-9200362f46b3?q=80&w=800",
+      "p_category": "Sports",
+      "p_description": "Indoor/Outdoor composite leather for superior grip."
+    },
+    {
+      "id": "E146_El",
+      "p_name": "USB-C Hub Multiport",
+      "p_price": 2500,
+      "p_stock": 40,
+      "p_image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=800",
+      "p_category": "Electronic",
+      "p_description": "7-in-1 adapter with 4K HDMI, USB 3.0, and SD Card reader."
+    },
+    {
+      "p_name": "Aganpakh",
+      "p_price": 560,
+      "p_stock": 52,
+      "p_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatEW1cd1QyvkvZgmScrAfnRFzngNRo7Me9w&s",
+      "p_category": "Books",
+      "p_description": "Aganapankha [biography] .... translate translator autobiography Wings of Fire kalamani Dholakiya Dr. Haresh, actually Truth is not a personal achievement, but also the science of the history of space science entitled roketa ankhe Prof. Dr. Kalam is reported nightmares .",
+      "id": "-Kllbs48UCY"
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
